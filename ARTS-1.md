@@ -134,7 +134,7 @@ class MyStack {
  */
 ```
 
-## ## 解法三(push - O(n), pop - O(1))
+## 解法三(push - O(n), pop - O(1))
 
 ```
 class MyStack {
@@ -229,6 +229,7 @@ $ http_proxy=socks5://127.0.0.1:1080 brew install foo
 To remove `nvm` manually, execute the following:
 
 ```bash
+# to remove, delete, or uninstall nvm - just remove the `$NVM_DIR` folder (usually `~/.nvm`)
 $ rm -rf "$NVM_DIR"
 ```
 
@@ -248,24 +249,35 @@ export NVM_DIR="$HOME/.nvm"
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
 ```
 
+
+
+### 常用命令
+
+```bash
+nvm install node # "node" is an alias for the latest version
+nvm install 6.14.4 # or 10.10.0, 8.9.1, etc
+nvm ls-remote
+nvm use node # use the lastest version node
+nvm use <version> # switch to use specific version node
+nvm which <version> # get the path of executable to where it is intalled
+nvm install-latest-npm # get the latest support npm version on the current node version
+nvm alias default node # set the latest version node alias "default"
 ```
-/Users/zhoutianbin/.nvm/versions/node/v10.16.0/lib
-├── @angular/cli@8.2.1
-├── cnpm@6.1.0
-└── typescript@3.5.3
-=> If you wish to uninstall them at a later point (or re-install them under your
-=> `nvm` Nodes), you can remove them from the system Node as follows:
 
-     $ nvm use system
-     $ npm uninstall -g a_module
+> In place of a version pointer like "0.10" or "5.0" or "4.2.1", you can use the following special default aliases with `nvm install`, `nvm use`, `nvm run`, `nvm exec`, `nvm which`, etc:
+>
+> - `node`: this installs the latest version of [`node`](https://nodejs.org/en/)
+> - `iojs`: this installs the latest version of [`io.js`](https://iojs.org/en/)
+> - `stable`: this alias is deprecated, and only truly applies to `node` `v0.12` and earlier. Currently, this is an alias for `node`.
+> - `unstable`: this alias points to `node` `v0.11` - the last "unstable" node release, since post-1.0, all node versions are stable. (in SemVer, versions communicate breakage, not stability).
 
-=> Close and reopen your terminal to start using nvm or run the following to use it now:
 
- 
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-zhoutianbin@Andys-MacBook-Pro ~ % nvm use system
 
+### npm
+
+```
+npm login
+npm whoami
 ```
 
 
@@ -282,7 +294,7 @@ chsh -s /bin/zsh(bash)
 
 ## Share
 
-
+复习npm相关指令时，看见官网有个[nodeschool](https://nodeschool.io/)，上面的课程设计都非常好，很值得一试。
 
 # Reference
 
