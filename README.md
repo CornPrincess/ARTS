@@ -3,3 +3,11 @@ The weekly tech notes, contains a leetcode algorithm problem, a tech blog review
 
 tips
 - [ ] springboot 全局抛出异常，不需要try catch
+
+review
+- [ ] JavaOne
+- [ ] SunOne
+- [ ] Java Commmunity Process
+
+share
+- [ ] compile OpenJDK7
