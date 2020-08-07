@@ -16,3 +16,5 @@ share
 stead of wasting CPU time when they are not allowed to enter their critical regions.
 
 
+# todo
+- [ ] 指令重排序
