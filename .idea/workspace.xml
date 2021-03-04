@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44910217-c6e6-467d-88a9-f6d169e34c2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2021/2021_07.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-32.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-32.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-33.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-33.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-34.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-34.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-35.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-35.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-36.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-36.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-37.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-37.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-43.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-43.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-45.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-45.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2020-47.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/2020-47.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ARTS-42.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/ARTS-42.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,12 +69,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -118,6 +109,11 @@
       <workItem from="1596729662534" duration="23000" />
       <workItem from="1612752352426" duration="781000" />
       <workItem from="1612774332762" duration="2848000" />
+      <workItem from="1613791536100" duration="546000" />
+      <workItem from="1614568138932" duration="868000" />
+      <workItem from="1614571531958" duration="598000" />
+      <workItem from="1614651373629" duration="576000" />
+      <workItem from="1614847896090" duration="598000" />
     </task>
     <servers />
   </component>
