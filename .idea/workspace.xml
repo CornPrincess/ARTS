@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44910217-c6e6-467d-88a9-f6d169e34c2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/2021/2021_11.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2021/2021_10.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2021/2021_10.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,21 @@
       <recent name="$PROJECT_DIR$/docs/2020" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -115,7 +130,10 @@
       <workItem from="1614571531958" duration="598000" />
       <workItem from="1614651373629" duration="576000" />
       <workItem from="1614847896090" duration="1177000" />
-      <workItem from="1614928640659" duration="517000" />
+      <workItem from="1614928640659" duration="781000" />
+      <workItem from="1615202206110" duration="612000" />
+      <workItem from="1615203282910" duration="186000" />
+      <workItem from="1615203959656" duration="2864000" />
     </task>
     <servers />
   </component>
