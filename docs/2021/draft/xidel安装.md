@@ -87,3 +87,5 @@ cd ${xidel-repo}/programs/internet/xidel
 > install: /usr/bin/xidel: Read-only file system
 
 尝试解决办法：`sudo mount -uw /`，该命令失败：`mount_apfs: volume could not be mounted: Permission denied`
+
+尝试将 `${xidel-repo}` 编译生产的 xidel 复制入 `/usr/local/bin` 目录下，但是软件不能正常使用
